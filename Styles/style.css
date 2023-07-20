@@ -106,7 +106,7 @@ strong{ color: var(--cor-terciaria);
 }
 
 .apresentacao__imagem {
-    width: 32%;
+    width: auto;
 }
 
 .rodape {
